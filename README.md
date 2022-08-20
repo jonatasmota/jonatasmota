@@ -1,4 +1,4 @@
-[![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)]
+![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
 <h1 align="center">Hi 👋, I'm Jonatas Mota</h1>
 <h3 align="center">I am a Programming/Web Developer student, a lifelong learner</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
