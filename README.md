@@ -1,6 +1,6 @@
 ![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
 <h1 align="center">Hi 👋, I'm Jonatas Mota</h1>
-<h3 align="center">I am a Programming/Web Developer student, a lifelong learner</h3>
+<h3 align="center">I am a Programmer/Web Developer, a lifelong learner</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatasmota&label=Profile%20views&color=0e75b6&style=flat" alt="jonatasmota" /> </p>
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jonatas.me](https://jonatas.me)
 
-- 📫 How to reach me **jonatas.dev@gmail.com**
+- 📫 How to reach me **jonatascmota@gmail.com**
 
 - ⚡ Fun fact **I look pretty serious until you meet me.**
 
